@@ -1,7 +1,10 @@
 @import "tailwindcss";
+@import "./codeFormat.css";
+@import "./customTheme.css";
+@plugin "@tailwindcss/typography";
 
 :root {
-  --background: #ffffff;
+  --background: #fdfbf7;
   --foreground: #171717;
 }
 
@@ -14,7 +17,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #0f172a;
     --foreground: #ededed;
   }
 }

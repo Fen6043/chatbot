@@ -1,0 +1,31 @@
+pre code .token.class-name {
+  color: #c084fc;
+}
+pre code .token.number {
+  color: #c59feb;
+}
+pre code .token.keyword {
+  color: #f472b6;
+}
+pre code .token.operator {
+  color: #60a5fa;
+}
+pre code .token.builtin {
+  color: #86efac;
+}
+pre code .token.comment {
+  color: #6b7280;
+}
+pre code .token.punctuation { 
+  color: #f5d32d;
+}
+pre code .token.string {
+  color: #67e8f9;
+}
+pre code .token.boolean {
+  color: #2e8690;
+}
+pre code .token.function {
+  color: #dcdcaa;
+}
+
